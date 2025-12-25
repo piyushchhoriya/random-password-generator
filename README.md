@@ -35,3 +35,6 @@ Just double-click `index.html` to open it in your browser.
 ## License
 MIT (or choose any license you prefer)
 
+<img width="723" height="703" alt="Screenshot 2025-12-25 at 1 06 22 AM" src="https://github.com/user-attachments/assets/7abfb3a2-a57e-4b1a-b695-2798abe7254e" />
+
+
