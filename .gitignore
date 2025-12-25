@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Build / cache folders (just in case)
+dist/
+build/
+.cache/
